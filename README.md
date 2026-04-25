@@ -1,6 +1,14 @@
 # 💫 Hi 👋, I'm Saptarshi Hore
 **A passionate Software Engineer from India**
 
+Full-stack engineer with **5 years of experience** crafting end-to-end solutions on production-grade platforms. Specialized in React.js/TypeScript frontends and Node.js/Express backends, working across the entire stack to deliver scalable applications. I thrive on:
+
+- 🏗️ **Building modern architectures** from frontend to backend
+- 📦 **Creating maintainable systems** with clean code and reusable patterns
+- ⚡ **Optimizing performance** at every layer of the application
+- 🤝 **Collaborating with teams** through mentoring and technical leadership
+- 🔧 **Designing scalable APIs** and robust database solutions
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saptarshi-hore) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/its_saps) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saptarshi0009@gmail.com) 
 
